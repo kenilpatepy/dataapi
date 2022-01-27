@@ -1,0 +1,10 @@
+ { 
+ "banner": "/2507246,22596942461/TuskyTech_Apps/freevideo.downloader.videoreeldownloader.banner",
+ "interstial": "/2507246,22596942461/TuskyTech_Apps/freevideo.downloader.videoreeldownloader.interstitial",
+ "nativead": "/2507246,22596942461/TuskyTech_Apps/freevideo.downloader.videoreeldownloader.native",
+ "openad":"/2507246,22596942461/TuskyTech_Apps/freevideo.downloader.videoreeldownloader.openapp",
+ "priority": { "adx": 1,"facebook": 3,"tapdaq": 2 },
+ "ad_freq":2,
+ "tapdaq_app_id":"6199cd6908fe6c2d735d73c8",
+ "tapdaq_clientkey":"b9f81789-5ef0-462e-a982-9a6e26122f43" 
+ }
